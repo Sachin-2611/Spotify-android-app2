@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="player_text">MUSIC PLAYER</string>
+    <string name="profile_text">PROFILE</string>
+</resources>
